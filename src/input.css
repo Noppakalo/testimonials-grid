@@ -1,17 +1,17 @@
 @import 'tailwindcss';
 :root {
-    --color-Purple50: #eee5ff;
-    --color-Purple300: #c4a2f6;
-    --color-Purple500: #7541c8;
-    --color-Gray100: #e7eaee;
-    --color-Gray200: #cfcfcf;
-    --color-Gray400: #676d7e;
-    --color-Gray500: #48556a;
-    --color-Dark-blue: #19212e;
+    --purple50: #eee5ff;
+    --purple300: #c4a2f6;
+    --purple500: #7541c8;
+    --gray100: #e7eaee;
+    --gray200: #cfcfcf;
+    --gray400: #676d7e;
+    --gray500: #48556a;
+    --dark-blue: #19212e;
 }
 
 body {
     font-family: 'Barlow Semi Condensed', sans-serif;
     font-size: 0.8125rem;
-    background-color: var(--color-Gray200);
+    background-color: var(--gray100);
 }
